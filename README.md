@@ -5,7 +5,7 @@ This set of Notebooks provides a complete set of code to be able to train and le
 # Steps
 
  # Part 1
-## Step 1. Clone this repository: https://github.com/nicknochnack/TFODCourse
+## Step 1. Clone this repository: https://github.com//hassanmughal467/Tensorflow-Sign-Language-Detection
 
 ## Step 2. Create a new virtual environment
 python -m venv tfod
